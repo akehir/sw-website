@@ -1,0 +1,28 @@
+/*!
+ * Sunworld v1.0.0
+ * Copyright 2013-2015 Sunworld Group
+ */
+ 
+ 
+.portfolio-carousel {
+	color: black;
+}
+
+.portfolio-carousel .item {
+  background-color: white;
+}
+
+.portfolio-carousel .item .portfolio-image {
+  height: 400px;
+}
+
+div .portfolio-wrapper {
+	/*height: 300px;*/
+}
+
+.art-image {
+	height: 300px;
+}
+.img-logo{
+	height: 100%;
+}
