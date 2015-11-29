@@ -38,3 +38,13 @@ div .portfolio-wrapper {
 .globe-img{
  height: 220px;
 }
+.img-room{
+	height: 150px;
+}
+.page-scroll{
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+footer.footer{
+	color: black;
+}
