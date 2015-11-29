@@ -1,7 +1,6 @@
 /*!
- * Vitality v1.3.5 (http://themes.startbootstrap.com/vitality-v1.3.5)
- * Copyright 2013-2015 Start Bootstrap Themes
- * To use this theme you must have a license purchased at WrapBootstrap (https://wrapbootstrap.com)
+ * Sunworld v1.0.0
+ * Copyright 2013-2015 Sunworld Group
  */
 
 (function($) {

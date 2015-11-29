@@ -3,6 +3,14 @@
  * Copyright 2013-2015 Sunworld Group
  */
  
+
+.navbar-default,
+.navbar-inverse,
+.navbar-fixed-top {
+  -webkit-transition: all 0.9s;
+  -moz-transition: all 0.9s;
+  transition: all 0.9s;
+}
  
 .portfolio-carousel {
 	color: black;
@@ -13,7 +21,9 @@
 }
 
 .portfolio-carousel .item .portfolio-image {
-  height: 400px;
+  /*height: 400px;
+  display: block;*/
+  max-height: 400px;
 }
 
 div .portfolio-wrapper {
@@ -21,8 +31,10 @@ div .portfolio-wrapper {
 }
 
 .art-image {
-	height: 300px;
 }
 .img-logo{
 	height: 100%;
+}
+.globe-img{
+ height: 220px;
 }
