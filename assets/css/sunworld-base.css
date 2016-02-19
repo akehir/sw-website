@@ -251,6 +251,7 @@ hr.colored {
   .navbar-inverse.navbar-expanded {
     background: transparent;
     border: none;
+	opacity: 0;
   }
 }
 .navbar a:focus {
